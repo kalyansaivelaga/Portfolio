@@ -83,11 +83,11 @@ function Contact() {
               Submit
             </button>
             <div className="links">
-              <img src={FacebookIcon} alt="FacebookIcon" className="link" />
+              <a href=""><img src={FacebookIcon} alt="FacebookIcon" className="link" /></a>
               <img src={TwitterIcon} alt="TwitterIcon" className="link" />
               <img src={YoutubeIcon} alt="YoutubeIcon" className="link" />
               <img src={InstagramIcon} alt="InstagramIcon" className="link" />
-              <img src={LinkedIn} alt="LinkedinIcon" className="llink" />
+              <a href="https://www.linkedin.com/in/kalyan-sai-velaga-9993221a0"><img src={LinkedIn} alt="LinkedinIcon" className="llink" /></a>
             </div>
           </form>
         </div>
