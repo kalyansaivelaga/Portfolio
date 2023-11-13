@@ -8,12 +8,13 @@
 }
 .bg {
   position: absolute;
-  top: -4rem;
+  top: 4rem;
   /* width: 40%; */
-  right: 0;
+  right: 54px;
   z-index: -1;
   object-fit: cover;
   height: 100vh;
+  width: 300px;
 }
 .introContent {
   height: 100vh;
