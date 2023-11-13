@@ -1,6 +1,6 @@
 import React from "react";
 import "./skills.css";
-import UIDesign from "../../assets/ui-design.png";
+import UIDesgin from "../../assets/ui-design.png";
 import WebDesign from "../../assets/website-design.png";
 import AppDesign from "../../assets/app-design.png";
 
@@ -9,32 +9,31 @@ function Skills() {
     <section id="skills">
       <span className="skillTitle">What I Do</span>
       <span className="skillDesc">
-        I am a skilled and passionate web designer with experince in creating
-        visually appealing and user-friendly website. I have a strong
+        I am a skilled and passionate web designer with experience in creating
+        visually appealing and user-friendly websites. I have a strong
         understanding of design and a keen eye for detail. I am proficient in
-        HTML,CSS and JavaScript as well as design software such as Adobe
-        Photoshop and Illustrator{" "}
+        HTML, CSS and javaScript, as well as ReactJs and Microfrontend.
       </span>
       <div className="skillBars">
         <div className="skillBar">
-          <img src={UIDesign} alt="UIDesign" className="skillBarImg" />
+          <img src={UIDesgin} alt="UI-Design" className="skillBarImg" />
           <div className="skillBarText">
             <h2>UI/UX Design</h2>
-            <p>Having 1.5Y of overall experience</p>
+            <p>This is a demo text, you can write your own content</p>
           </div>
         </div>
         <div className="skillBar">
-          <img src={WebDesign} alt="WebDesign" className="skillBarImg" />
+          <img src={WebDesign} alt="Web-Design" className="skillBarImg" />
           <div className="skillBarText">
-            <h2>Web Design</h2>
-            <p>Having 1.5Y of overall experience</p>
+            <h2>Website Design</h2>
+            <p>This is a demo text, you can write your own content</p>
           </div>
         </div>
         <div className="skillBar">
-          <img src={AppDesign} alt="AppDesign" className="skillBarImg" />
+          <img src={AppDesign} alt="App-Design" className="skillBarImg" />
           <div className="skillBarText">
             <h2>App Design</h2>
-            <p>Having 1.5Y of overall experience</p>
+            <p>This is a demo text, you can write your own content</p>
           </div>
         </div>
       </div>
