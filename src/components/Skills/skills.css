@@ -23,7 +23,7 @@
 }
 .skillBars {
   margin: 1.5rem;
-  width: 100vw;
+  width: 200vw;
   max-width: 80%;
   text-align: left;
 }
@@ -58,13 +58,7 @@
     height: 2.25rem;
     width: 2.25rem;
   }
-  .skillBarText {
+  .skillBarText > h2 {
     font-size: 5vw;
-  }
-}
-
-@media (min-width: 400px) and (max-width: 600px) {
-  #skills {
-    width: 100%;
   }
 }
