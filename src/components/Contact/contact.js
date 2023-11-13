@@ -83,7 +83,7 @@ function Contact() {
               Submit
             </button>
             <div className="links">
-              a<img src={FacebookIcon} alt="FacebookIcon" className="link" />
+              <img src={FacebookIcon} alt="FacebookIcon" className="link" />
               <img src={TwitterIcon} alt="TwitterIcon" className="link" />
               <img src={YoutubeIcon} alt="YoutubeIcon" className="link" />
               <img src={InstagramIcon} alt="InstagramIcon" className="link" />
