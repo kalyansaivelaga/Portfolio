@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import bg from "../../assets/WhatsApp_Image_2024-07-29_at_10.08.54_AM-removebg";
+import bg from "../../assets/croped.png";
 import { Link } from "react-scroll";
 import btnImg from "../../assets/hireme.png";
 function Intro() {
