@@ -9,7 +9,7 @@ function Intro() {
       <div className="introContent">
         <span className="hello">Hello</span>
         <span className="introText">
-          I'm <span className="introName">KalyanSai Velaga</span>
+          I'm <span className="introName">Kalyan Sai Velaga</span>
           <br />
           Web Devoloper
         </span>
