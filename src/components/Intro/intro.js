@@ -11,7 +11,7 @@ function Intro() {
         <span className="introText">
           I'm <span className="introName">KalyanSai Velaga</span>
           <br />
-          Website Designer
+          Web Devoloper
         </span>
         <p className="introPara">
           I am a skilled web designer with experience in creating <br></br>
