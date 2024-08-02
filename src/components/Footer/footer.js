@@ -4,7 +4,7 @@ import "./footer.css";
 function Footer() {
   return (
     <footer className="footer">
-      copyright &#169; 2023 KalyanSai Velaga. All rights received.
+      copyright &#169; 2022 Kalyan Sai Velaga. All rights received.
     </footer>
   );
 }
