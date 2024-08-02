@@ -9,10 +9,10 @@ function Skills() {
     <section id="skills">
       <span className="skillTitle">What I Do</span>
       <span className="skillDesc">
-        I am a skilled and passionate web designer with experience in creating
+        I am a skilled and passionate web devoloper with experience in creating
         visually appealing and user-friendly websites. I have a strong
         understanding of design and a keen eye for detail. I am proficient in
-        HTML, CSS and javaScript, as well as ReactJs and Microfrontend.
+        HTML, CSS and javaScript, as well as ReactJs, NodeJs, MongoDB and Microfrontend.
       </span>
       <div className="skillBars">
         <div className="skillBar">
