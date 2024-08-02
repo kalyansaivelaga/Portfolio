@@ -14,7 +14,7 @@ function Intro() {
           Web Devoloper
         </span>
         <p className="introPara">
-          I am a skilled web designer with experience in creating <br></br>
+          I am a skilled web devoloper with experience in creating&devoloping <br></br>
           visually appealing and user friendly websites.
         </p>
         <Link to="">
