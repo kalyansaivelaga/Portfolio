@@ -18,22 +18,22 @@ function Skills() {
         <div className="skillBar">
           <img src={UIDesgin} alt="UI-Design" className="skillBarImg" />
           <div className="skillBarText">
-            <h2>UI/UX Design</h2>
-            <p>This is a demo text, you can write your own content</p>
+            <h2>UI/UX Design & Devolopment</h2>
+            <p>UI and UX design and development focus on creating visually appealing interfaces and ensuring a seamless, user-centered experience.</p>
           </div>
         </div>
         <div className="skillBar">
           <img src={WebDesign} alt="Web-Design" className="skillBarImg" />
           <div className="skillBarText">
-            <h2>Website Design</h2>
-            <p>This is a demo text, you can write your own content</p>
+            <h2>Website Design & Devolopment</h2>
+            <p>Web Design and Development: Web design focuses on the aesthetics and usability of a website, while web development involves building the functional and technical aspects to bring the design to life.</p>
           </div>
         </div>
         <div className="skillBar">
           <img src={AppDesign} alt="App-Design" className="skillBarImg" />
           <div className="skillBarText">
-            <h2>App Design</h2>
-            <p>This is a demo text, you can write your own content</p>
+            <h2>App Design & Devolopment</h2>
+            <p>Crafting visually appealing and user-friendly interfaces (design) and building robust, functional applications (development) for optimal user experience and performance.</p>
           </div>
         </div>
       </div>
